@@ -1,4 +1,5 @@
-# practical-application-1
+# Practical Application 1
+
 
 ## Context
 
